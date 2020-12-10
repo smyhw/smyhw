@@ -4,9 +4,8 @@
 * 大鸽子
 
 ***
-你可以在这里联系到我:  
-[email](mailto:i@smyhw.online)
-  
+你可以[发邮件](mailto:i@smyhw.online)联系到我:  
+***
 ![github stats](https://github-readme-stats.vercel.app/api?username=smyhw)
 <!--
 **smyhw/smyhw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
