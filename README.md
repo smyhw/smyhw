@@ -1,5 +1,13 @@
-### Hi there 👋
+呐呐呐,
+这里是smyhw,  
+* mc服务端插件开发者  
+* 大鸽子
 
+***
+你可以在这里联系到我:  
+[email](mailto:i@smyhw.online)
+  
+![github stats](https://github-readme-stats.vercel.app/api?username=smyhw)
 <!--
 **smyhw/smyhw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
