@@ -1,10 +1,8 @@
 呐呐呐,
 这里是smyhw,  
-* mc服务端插件开发者  
-* 大鸽子
 
 ***
-你可以[发邮件](mailto:i@smyhw.online)联系到我:  
+你可以[发邮件](mailto:i@smyhw.online)联系到[我](https://hanhz.smyhw.online:8080)  
 ***
 ![github stats](https://github-readme-stats.vercel.app/api?username=smyhw)
 <!--
