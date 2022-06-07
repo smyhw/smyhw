@@ -2,7 +2,7 @@
 这里是smyhw,  
 
 ***
-你可以[发邮件](mailto:i@smyhw.online)联系到[我](https://hanhz.smyhw.online:8080)  
+你可以[发邮件](mailto:i@smyhw.online)联系到[我](https://blog.smyhw.online:8080)  
 ***
 ![github stats](https://github-readme-stats.vercel.app/api?username=smyhw)
 <!--
