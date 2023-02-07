@@ -1,8 +1,13 @@
 呐呐呐,
 这里是smyhw,  
-
 ***
-你可以[发邮件](mailto:i@smyhw.online)联系到[我](https://blog.smyhw.online:8080)  
+![lang_java](https://img.shields.io/badge/language-java-brightgreen)
+![lang_python](https://img.shields.io/badge/language-python-geen)
+![lang_go](https://img.shields.io/badge/language-golang-yellowgreen)  
+  
+唔，是一只全栈废宅(    
+  
+可以发[邮件](mailto:i@smyhw.online)联系到[咱](https://blog.smyhw.online)  
 ***
 ![github stats](https://github-readme-stats.vercel.app/api?username=smyhw)
 <!--
